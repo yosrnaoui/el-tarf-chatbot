@@ -1,0 +1,4 @@
+flask
+langdetect
+pandas
+openpyxl
