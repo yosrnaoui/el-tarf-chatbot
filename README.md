@@ -18,8 +18,8 @@ The chatbot provides information about restaurants, beaches, monuments, hotels, 
 ## Installation
 
 1- Clone the repository: 
-      git clone https://github.com/<your-username>/el-tarf-chatbot.git
-      cd el-tarf-chatbot
+      - git clone https://github.com/<your-username>/el-tarf-chatbot.git
+      - cd el-tarf-chatbot
 
 2- Install dependencies:
       pip install -r requirements.txt
